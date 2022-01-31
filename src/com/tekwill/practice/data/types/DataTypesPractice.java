@@ -7,7 +7,7 @@ public class DataTypesPractice {
         int i3= (int) i;
 
 
-        System.out.println(i3);
+        System.out.println("fgh");
 
     }
 }
